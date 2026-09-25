@@ -2,7 +2,7 @@
 
 Soy Belén Álava — profesora y coordinadora de Formación Profesional en el IES Miguel Herrero Pereda (Cantabria, España).
 
-- 🔭 Actualmente coordino el CFGM Sistemas Microinformáticos y Redes en modalidad virtual/distancia (SMRV), e imparto los módulos de Aplicaciones Web (AW) y Seguridad Informática (SEGI).
+- 🔭 Actualmente coordino el CFGM Sistemas Microinformáticos y Redes en modalidad virtual/distancia (SMRV), e imparto los módulos de Aplicaciones Web (AW) y Seguridad Informática (SEGI) y Seguridad y Alta Disponibilidad.
 - 🌱 Estoy estudiando por mi cuenta Kubernetes, AWS y Ansible, y explorando los programas de GitHub Education para docentes.
 - 👯 Colaboro en proyectos innovacion y de herramientas cloud/open source — he participado en Digital Hub FP junto a IES Zapatón, CC San José y Fundación UCEIF/CISE.
 - 🤔 Busco ayuda con: integrar flujos de trabajo GitHub/SharePoint/Moodle en la docencia de FP, y escalar prácticas de ciberseguridad (hacking ético) para el alumnado.
